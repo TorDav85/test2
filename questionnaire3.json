@@ -1,0 +1,392 @@
+[
+    {
+        "text": "Qui a écrit 'Le Petit Prince'?",
+        "answer": "Saint-Exupéry",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand pays du monde par sa superficie?",
+        "answer": "Russie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de l'Espagne?",
+        "answer": "Madrid",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique du sodium?",
+        "answer": "Na",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'La Nuit étoilée'?",
+        "answer": "Van Gogh",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de faces possède un cube?",
+        "answer": "6",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la monnaie du Royaume-Uni?",
+        "answer": "Livre",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de dents un adulte a-t-il normalement?",
+        "answer": "32",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande forêt tropicale du monde?",
+        "answer": "Amazonie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert la gravité?",
+        "answer": "Newton",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays se trouve la ville de Bangkok?",
+        "answer": "Thaïlande",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus long fleuve d'Europe?",
+        "answer": "Volga",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a inventé le téléphone?",
+        "answer": "Bell",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la devise du Japon?",
+        "answer": "Yen",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de continents y a-t-il dans le monde?",
+        "answer": "7",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a fondé Microsoft?",
+        "answer": "Bill Gates",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Canada?",
+        "answer": "Ottawa",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand mammifère marin?",
+        "answer": "Baleine bleue",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'La Joconde'?",
+        "answer": "Léonard de Vinci",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Brésil?",
+        "answer": "Brasilia",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'os le plus long du corps humain?",
+        "answer": "Fémur",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel écrivain a créé le personnage de Sherlock Holmes?",
+        "answer": "Conan Doyle",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit pays d'Europe?",
+        "answer": "Vatican",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel élément a pour symbole chimique 'K'?",
+        "answer": "Potassium",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Chine?",
+        "answer": "Pékin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert l'Amérique en 1492?",
+        "answer": "Christophe Colomb",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'animal le plus rapide du monde?",
+        "answer": "Faucon pèlerin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Guerre et Paix'?",
+        "answer": "Tolstoï",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel océan se trouve l'île de Madagascar?",
+        "answer": "Indien",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel métal est liquide à température ambiante?",
+        "answer": "Mercure",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a fondé la psychanalyse?",
+        "answer": "Freud",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus haut sommet d'Afrique?",
+        "answer": "Kilimandjaro",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année la Première Guerre mondiale a-t-elle commencé?",
+        "answer": "1914",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle planète est connue comme 'la planète rouge'?",
+        "answer": "Mars",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel pays a pour capitale Buenos Aires?",
+        "answer": "Argentine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Les Misérables'?",
+        "answer": "Victor Hugo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le deuxième élément le plus abondant dans l'atmosphère terrestre?",
+        "answer": "Oxygène",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le fruit du chêne?",
+        "answer": "Gland",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel célèbre scientifique a formulé E=mc²?",
+        "answer": "Einstein",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de l'Égypte?",
+        "answer": "Le Caire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Portugal?",
+        "answer": "Lisbonne",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel pays a pour capitale Vienne?",
+        "answer": "Autriche",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande mer intérieure du monde?",
+        "answer": "Méditerranée",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel élément chimique a pour symbole 'He'?",
+        "answer": "Hélium",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Où se trouve la tour de Pise?",
+        "answer": "Italie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand reptile du monde?",
+        "answer": "Crocodile marin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de doigts possède la main humaine?",
+        "answer": "5",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel empereur romain a construit un mur en Angleterre?",
+        "answer": "Hadrien",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le métal le plus précieux?",
+        "answer": "Rhodium",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays est né Mozart?",
+        "answer": "Autriche",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande ville du Canada?",
+        "answer": "Toronto",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert la théorie de la relativité?",
+        "answer": "Einstein",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus haut sommet d'Europe?",
+        "answer": "Elbrouz",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la planète la plus chaude du système solaire?",
+        "answer": "Vénus",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'Les Tournesols'?",
+        "answer": "Van Gogh",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'élément le plus abondant dans la croûte terrestre?",
+        "answer": "Oxygène",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Maroc?",
+        "answer": "Rabat",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand archipel du monde?",
+        "answer": "Indonésie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Les Trois Mousquetaires'?",
+        "answer": "Alexandre Dumas",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand insecte du monde?",
+        "answer": "Phasme",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le pays où se trouve l'Everest?",
+        "answer": "Népal",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Roumanie?",
+        "answer": "Bucarest",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'organe qui filtre le sang?",
+        "answer": "Rein",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la monnaie du Brésil?",
+        "answer": "Real",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert l'Amérique?",
+        "answer": "Christophe Colomb",
+        "points": 10,
+        "time_limit": 40
+    }
+] 

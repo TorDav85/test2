@@ -1,0 +1,392 @@
+[
+    {
+        "text": "Quel est le plus grand océan du monde?",
+        "answer": "Pacifique",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Portugal?",
+        "answer": "Lisbonne",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit '1984'?",
+        "answer": "Orwell",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du plus grand désert chaud du monde?",
+        "answer": "Sahara",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique de l'argent?",
+        "answer": "Ag",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est l'auteur de la théorie de l'évolution?",
+        "answer": "Darwin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand mammifère terrestre?",
+        "answer": "Éléphant",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Norvège?",
+        "answer": "Oslo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'La Flûte enchantée'?",
+        "answer": "Mozart",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel sport se joue à Roland Garros?",
+        "answer": "Tennis",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'Le Cri'?",
+        "answer": "Munch",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année est tombé le mur de Berlin?",
+        "answer": "1989",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande île du monde?",
+        "answer": "Groenland",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a fondé Apple avec Steve Jobs?",
+        "answer": "Wozniak",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel fromage est spécialité de Roquefort?",
+        "answer": "Bleu",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique du cuivre?",
+        "answer": "Cu",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande chaîne de montagnes d'Europe?",
+        "answer": "Alpes",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est l'auteur des 'Fables'?",
+        "answer": "La Fontaine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le pays d'origine du Tango?",
+        "answer": "Argentine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la formule chimique de l'eau?",
+        "answer": "H2O",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel empereur a construit le Colisée à Rome?",
+        "answer": "Vespasien",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a inventé le World Wide Web?",
+        "answer": "Tim Berners-Lee",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom de la monnaie brésilienne?",
+        "answer": "Real",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit os du corps humain?",
+        "answer": "Étrier",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle ville se trouve la Sagrada Familia?",
+        "answer": "Barcelone",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom de l'alphabet japonais?",
+        "answer": "Hiragana",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Notre-Dame de Paris'?",
+        "answer": "Victor Hugo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'organe qui produit l'insuline?",
+        "answer": "Pancréas",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le prénom de la reine d'Angleterre décédée en 2022?",
+        "answer": "Elizabeth",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande ville d'Afrique?",
+        "answer": "Le Caire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'Bohemian Rhapsody'?",
+        "answer": "Queen",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel homme politique a dit 'Je vous ai compris'?",
+        "answer": "De Gaulle",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel fruit est utilisé pour faire le cidre?",
+        "answer": "Pomme",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nombre d'États aux États-Unis?",
+        "answer": "50",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel philosophe grec a été le maître d'Alexandre le Grand?",
+        "answer": "Aristote",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du détroit entre l'Espagne et le Maroc?",
+        "answer": "Gibraltar",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Les Fleurs du mal'?",
+        "answer": "Baudelaire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le seul satellite naturel de la Terre?",
+        "answer": "Lune",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays se trouve la ville de Marrakech?",
+        "answer": "Maroc",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle était la capitale de l'Empire byzantin?",
+        "answer": "Constantinople",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel fruit est utilisé pour faire le cidre?",
+        "answer": "Pomme",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand félin du monde?",
+        "answer": "Tigre",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert le vaccin contre la rage?",
+        "answer": "Pasteur",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien d'états composent les États-Unis?",
+        "answer": "50",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand volcan d'Europe?",
+        "answer": "Etna",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand animal terrestre carnivore?",
+        "answer": "Ours polaire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus haute chute d'eau du monde?",
+        "answer": "Angel",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique du carbone?",
+        "answer": "C",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Madame Bovary'?",
+        "answer": "Flaubert",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit pays d'Asie?",
+        "answer": "Maldives",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom de notre galaxie?",
+        "answer": "Voie lactée",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'L'Iliade' et 'L'Odyssée'?",
+        "answer": "Homère",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand désert d'Asie?",
+        "answer": "Gobi",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du satellite naturel de la Terre?",
+        "answer": "Lune",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'La Nuit étoilée'?",
+        "answer": "Van Gogh",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le premier élément du tableau périodique?",
+        "answer": "Hydrogène",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Finlande?",
+        "answer": "Helsinki",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit oiseau du monde?",
+        "answer": "Colibri",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année a eu lieu la Révolution française?",
+        "answer": "1789",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand lac d'Afrique?",
+        "answer": "Victoria",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien d'os compte le corps humain adulte?",
+        "answer": "206",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Vietnam?",
+        "answer": "Hanoï",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel philosophe grec était le maître d'Alexandre le Grand?",
+        "answer": "Aristote",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand canyon du monde?",
+        "answer": "Grand Canyon",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la monnaie officielle du Japon?",
+        "answer": "Yen",
+        "points": 10,
+        "time_limit": 40
+    }
+] 

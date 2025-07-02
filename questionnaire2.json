@@ -1,0 +1,386 @@
+[
+    {
+        "text": "Quel film a gagné l'Oscar du meilleur film en 2020?",
+        "answer": "Parasite",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel acteur joue Jack Dawson dans 'Titanic'?",
+        "answer": "Leonardo DiCaprio",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel film peut-on entendre 'Je suis ton père'?",
+        "answer": "Star Wars",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film raconte l'histoire d'un pianiste juif pendant la Seconde Guerre mondiale?",
+        "answer": "Le Pianiste",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle ville se déroule 'Breaking Bad'?",
+        "answer": "Albuquerque",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé 'Inception'?",
+        "answer": "Christopher Nolan",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du vaisseau spatial dans 'Alien'?",
+        "answer": "Nostromo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du personnage principal dans 'Matrix'?",
+        "answer": "Neo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé le film 'Titanic'?",
+        "answer": "James Cameron",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel acteur joue Iron Man dans l'univers Marvel?",
+        "answer": "Robert Downey Jr",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel acteur incarne James Bond dans 'Casino Royale'?",
+        "answer": "Daniel Craig",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle actrice joue Katniss Everdeen dans 'Hunger Games'?",
+        "answer": "Jennifer Lawrence",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du sorcier principal dans 'Harry Potter'?",
+        "answer": "Harry Potter",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a joué Forrest Gump?",
+        "answer": "Tom Hanks",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel film un lingot d'or est-il volé à Turin?",
+        "answer": "L'or se barre",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage de série est surnommé 'Heisenberg'?",
+        "answer": "Walter White",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage dit 'Winter is coming' dans Game of Thrones?",
+        "answer": "Ned Stark",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel studio a produit 'Toy Story'?",
+        "answer": "Pixar",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé 'Pulp Fiction'?",
+        "answer": "Tarantino",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle ville se déroule la série 'Friends'?",
+        "answer": "New York",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage principal meurt à la fin de 'Avengers: Infinity War'?",
+        "answer": "Spider-Man",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui joue le rôle du Joker dans 'The Dark Knight'?",
+        "answer": "Heath Ledger",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la profession de Ted Mosby dans 'How I Met Your Mother'?",
+        "answer": "Architecte",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage de Disney est une sirène?",
+        "answer": "Ariel",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel film voit-on un bus pris en otage qui ne peut pas ralentir?",
+        "answer": "Speed",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel acteur joue Wolverine dans la saga X-Men?",
+        "answer": "Hugh Jackman",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle série se déroule à Westeros?",
+        "answer": "Game of Thrones",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le prénom de la femme de Homer Simpson?",
+        "answer": "Marge",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel film Bruce Willis découvre-t-il qu'il est mort?",
+        "answer": "Sixième Sens",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle actrice joue Rose dans 'Titanic'?",
+        "answer": "Kate Winslet",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film met en scène un parc avec des dinosaures?",
+        "answer": "Jurassic Park",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle série raconte l'histoire d'un professeur de chimie devenu trafiquant?",
+        "answer": "Breaking Bad",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage a un masque noir et respire bruyamment?",
+        "answer": "Dark Vador",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est le créateur de la série 'Stranger Things'?",
+        "answer": "Frères Duffer",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film de Spielberg raconte l'histoire d'un requin?",
+        "answer": "Les Dents de la mer",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel film Leonardo DiCaprio est-il un escroc qui infiltre les rêves?",
+        "answer": "Inception",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien y a-t-il de films dans la saga originale 'Star Wars'?",
+        "answer": "9",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du café dans 'Friends'?",
+        "answer": "Central Perk",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage dit 'Bazinga!' dans 'The Big Bang Theory'?",
+        "answer": "Sheldon",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle actrice joue Hermione Granger dans 'Harry Potter'?",
+        "answer": "Emma Watson",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle ville se déroule la série 'The Wire'?",
+        "answer": "Baltimore",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le prénom du personnage principal dans 'John Wick'?",
+        "answer": "John",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé 'E.T. l'extra-terrestre'?",
+        "answer": "Spielberg",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle ville fictive vit Batman?",
+        "answer": "Gotham",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage de série porte le surnom 'Le Chien'?",
+        "answer": "Sandor Clegane",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle actrice joue Hermione dans 'Harry Potter'?",
+        "answer": "Emma Watson",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film raconte l'histoire du Titanic?",
+        "answer": "Titanic",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est le méchant dans 'Le Roi Lion'?",
+        "answer": "Scar",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle série met en scène des dragons et des marcheurs blancs?",
+        "answer": "Game of Thrones",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel acteur joue dans 'Mission Impossible'?",
+        "answer": "Tom Cruise",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé 'Avatar'?",
+        "answer": "James Cameron",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le vaisseau spatial dans 'Star Wars'?",
+        "answer": "Faucon Millenium",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle série un professeur de chimie devient-il trafiquant?",
+        "answer": "Breaking Bad",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui joue Wonder Woman dans le film de 2017?",
+        "answer": "Gal Gadot",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film d'animation met en scène un rat cuisinier?",
+        "answer": "Ratatouille",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est le créateur de la série 'Les Simpson'?",
+        "answer": "Matt Groening",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film a pour héros un archéologue aventurier?",
+        "answer": "Indiana Jones",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle série les personnages travaillent-ils dans un hôpital?",
+        "answer": "Grey's Anatomy",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film raconte l'histoire d'un bateau attaqué par un requin?",
+        "answer": "Les Dents de la mer",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a réalisé 'Psychose'?",
+        "answer": "Hitchcock",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel personnage de série dit 'Winter is coming'?",
+        "answer": "Ned Stark",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel film met en scène un parc avec des dinosaures?",
+        "answer": "Jurassic Park",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quelle série les personnages sont-ils des zombies?",
+        "answer": "The Walking Dead",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui joue Jack dans 'Titanic'?",
+        "answer": "Leonardo DiCaprio",
+        "points": 10,
+        "time_limit": 40
+    }
+]

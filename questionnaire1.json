@@ -1,0 +1,392 @@
+[
+    {
+        "text": "Quel est l'animal emblème des États-Unis?",
+        "answer": "Aigle",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la planète la plus proche du Soleil?",
+        "answer": "Mercure",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'élément chimique le plus abondant dans l'univers?",
+        "answer": "Hydrogène",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a découvert la pénicilline?",
+        "answer": "Fleming",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien y a-t-il de joueurs dans une équipe de football?",
+        "answer": "11",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand mammifère terrestre?",
+        "answer": "Éléphant",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de jours y a-t-il dans une année bissextile?",
+        "answer": "366",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la monnaie du Japon?",
+        "answer": "Yen",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la monnaie européenne?",
+        "answer": "Euro",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la France?",
+        "answer": "Paris",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique de l'or?",
+        "answer": "Au",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint la Joconde?",
+        "answer": "Léonard de Vinci",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui était le premier homme à marcher sur la Lune?",
+        "answer": "Neil Armstrong",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand océan du monde?",
+        "answer": "Pacifique",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a inventé l'ampoule électrique?",
+        "answer": "Edison",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de l'Italie?",
+        "answer": "Rome",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus haut sommet du monde?",
+        "answer": "Everest",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le métal le plus conducteur d'électricité?",
+        "answer": "Argent",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand désert du monde?",
+        "answer": "Antarctique",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Les Misérables'?",
+        "answer": "Victor Hugo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'organe qui pompe le sang dans le corps?",
+        "answer": "Cœur",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays se trouve la ville de Marrakech?",
+        "answer": "Maroc",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de côtés possède un hexagone?",
+        "answer": "6",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande planète du système solaire?",
+        "answer": "Jupiter",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique du fer?",
+        "answer": "Fe",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint la chapelle Sixtine?",
+        "answer": "Michel-Ange",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année a commencé la Seconde Guerre mondiale?",
+        "answer": "1939",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand pays d'Afrique?",
+        "answer": "Algérie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale du Japon?",
+        "answer": "Tokyo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a formulé la théorie de la relativité?",
+        "answer": "Einstein",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Comment s'appelle la peur des araignées?",
+        "answer": "Arachnophobie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus petite planète du système solaire?",
+        "answer": "Mercure",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le fleuve le plus long du monde?",
+        "answer": "Nil",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Roméo et Juliette'?",
+        "answer": "Shakespeare",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de l'Australie?",
+        "answer": "Canberra",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le pays le plus peuplé du monde?",
+        "answer": "Inde",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien font 7 × 8?",
+        "answer": "56",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit pays du monde?",
+        "answer": "Vatican",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'Les Quatre Saisons'?",
+        "answer": "Vivaldi",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Sur quel continent se trouve l'Égypte?",
+        "answer": "Afrique",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel instrument joue un violoniste?",
+        "answer": "Violon",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel animal symbolise la paix?",
+        "answer": "Colombe",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Belgique?",
+        "answer": "Bruxelles",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de continents existe-t-il sur Terre?",
+        "answer": "7",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand lac d'Europe?",
+        "answer": "Ladoga",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus petit mammifère du monde?",
+        "answer": "Musaraigne",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Comment s'appelle la peur des espaces clos?",
+        "answer": "Claustrophobie",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique du plomb?",
+        "answer": "Pb",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus haute montagne des Alpes?",
+        "answer": "Mont Blanc",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a peint 'Guernica'?",
+        "answer": "Picasso",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'animal le plus venimeux du monde?",
+        "answer": "Méduse-boîte",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus grande île de la Méditerranée?",
+        "answer": "Sicile",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année est tombé le mur de Berlin?",
+        "answer": "1989",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel scientifique a découvert la radioactivité?",
+        "answer": "Becquerel",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus long fleuve de France?",
+        "answer": "Loire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'Le Petit Prince'?",
+        "answer": "Saint-Exupéry",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la plus petite particule d'un élément?",
+        "answer": "Atome",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la capitale de la Grèce?",
+        "answer": "Athènes",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel animal peut survivre plusieurs semaines sans eau?",
+        "answer": "Chameau",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la ville la plus peuplée d'Afrique?",
+        "answer": "Le Caire",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le diamètre approximatif de la Terre?",
+        "answer": "12700 km",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a écrit 'L'Étranger'?",
+        "answer": "Camus",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le symbole chimique de l'azote?",
+        "answer": "N",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a inventé le paratonnerre?",
+        "answer": "Franklin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le plus grand pays d'Amérique du Sud?",
+        "answer": "Brésil",
+        "points": 10,
+        "time_limit": 40
+    }
+]

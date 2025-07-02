@@ -1,0 +1,530 @@
+[
+    {
+        "text": "Quel groupe britannique a interprété 'Hey Jude'?",
+        "answer": "Beatles",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument à cordes possède généralement 6 cordes?",
+        "answer": "Guitare",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est le 'King of Pop'?",
+        "answer": "Michael Jackson",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel était le prénom de Mozart?",
+        "answer": "Wolfgang",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le style musical né à la Nouvelle-Orléans?",
+        "answer": "Jazz",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'La Vie en Rose'?",
+        "answer": "Édith Piaf",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Combien de touches blanches sur un piano standard?",
+        "answer": "52",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel genre musical est associé à Bob Marley?",
+        "answer": "Reggae",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est l'auteur des 'Quatre Saisons'?",
+        "answer": "Vivaldi",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'Imagine'?",
+        "answer": "Beatles",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'instrument de prédilection de Louis Armstrong?",
+        "answer": "Trompette",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'Le Lac des Cygnes'?",
+        "answer": "Tchaïkovski",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le style de musique d'AC/DC?",
+        "answer": "Rock",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année est mort Elvis Presley?",
+        "answer": "1977",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'instrument à vent le plus grave?",
+        "answer": "Tuba",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'Je t'aime... moi non plus'?",
+        "answer": "Gainsbourg",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'Les Champs-Élysées'?",
+        "answer": "Joe Dassin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays est né le tango?",
+        "answer": "Argentine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Comment s'appelle le guitariste des Rolling Stones?",
+        "answer": "Keith Richards",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est la 'Reine de la Soul'?",
+        "answer": "Aretha Franklin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel musicien a écrit 'La Symphonie du Nouveau Monde'?",
+        "answer": "Dvorak",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays vient le groupe ABBA?",
+        "answer": "Suède",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le vrai prénom de Lady Gaga?",
+        "answer": "Stefani",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel compositeur était sourd?",
+        "answer": "Beethoven",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse a interprété 'Single Ladies'?",
+        "answer": "Beyoncé",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument possède 88 touches?",
+        "answer": "Piano",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'Billie Jean'?",
+        "answer": "Michael Jackson",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe français a chanté 'Alors on danse'?",
+        "answer": "Stromae",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays est originaire le flamenco?",
+        "answer": "Espagne",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'My Heart Will Go On' pour le film Titanic?",
+        "answer": "Céline Dion",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom de l'album le plus vendu au monde?",
+        "answer": "Thriller",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument joue Yo-Yo Ma?",
+        "answer": "Violoncelle",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'La Traviata'?",
+        "answer": "Verdi",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel chanteur américain était surnommé 'The King'?",
+        "answer": "Elvis Presley",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument est typique du blues?",
+        "answer": "Harmonica",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays vient le style musical 'K-pop'?",
+        "answer": "Corée du Sud",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'Hallelujah'?",
+        "answer": "Leonard Cohen",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'We Will Rock You'?",
+        "answer": "Queen",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Dans quel pays est né le style musical 'Samba'?",
+        "answer": "Brésil",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'Le Requiem'?",
+        "answer": "Mozart",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel type de voix masculine est la plus aiguë?",
+        "answer": "Ténor",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument de musique était associé à Louis XIV?",
+        "answer": "Clavecin",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse est connue comme 'The Material Girl'?",
+        "answer": "Madonna",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays vient la musique 'Fado'?",
+        "answer": "Portugal",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel festival de musique a lieu à Glastonbury?",
+        "answer": "Rock",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé l'opéra 'Carmen'?",
+        "answer": "Bizet",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est l'instrument national de l'Écosse?",
+        "answer": "Cornemuse",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "En quelle année est né le mouvement Punk?",
+        "answer": "1976",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel célèbre guitariste jouait avec une guitare nommée 'Lucille'?",
+        "answer": "B.B. King",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays vient le groupe U2?",
+        "answer": "Irlande",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel style musical associe-t-on à David Guetta?",
+        "answer": "Électro",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est l'inventeur présumé du saxophone?",
+        "answer": "Adolphe Sax",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la gamme la plus utilisée en musique occidentale?",
+        "answer": "Majeure",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel était le vrai nom de Freddie Mercury?",
+        "answer": "Farrokh Bulsara",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel album de Daft Punk contient 'Get Lucky'?",
+        "answer": "Random Access Memories",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la ville natale du hip-hop?",
+        "answer": "New York",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a interprété la chanson 'La Bohème'?",
+        "answer": "Charles Aznavour",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument utilise des anches pour produire du son?",
+        "answer": "Clarinette",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui était le batteur des Beatles?",
+        "answer": "Ringo Starr",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel guitariste est connu pour son solo dans 'Stairway to Heaven'?",
+        "answer": "Jimmy Page",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'La Marseillaise'?",
+        "answer": "Rouget de Lisle",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel DJ suédois a sorti le tube 'Levels'?",
+        "answer": "Avicii",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe rock a pour chanteur Mick Jagger?",
+        "answer": "Rolling Stones",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le festival de musique le plus célèbre au Maroc?",
+        "answer": "Mawazine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse québécoise est surnommée 'La Diva'?",
+        "answer": "Céline Dion",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe britannique a chanté 'Wonderwall'?",
+        "answer": "Oasis",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a composé 'Les Quatre Saisons'?",
+        "answer": "Vivaldi",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel chanteur français a interprété 'L'Aziza'?",
+        "answer": "Daniel Balavoine",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'Smells Like Teen Spirit'?",
+        "answer": "Nirvana",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui est considéré comme le père du Blues?",
+        "answer": "Robert Johnson",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la nationalité du compositeur Chopin?",
+        "answer": "Polonaise",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel rappeur français a fondé le label 92i?",
+        "answer": "Booba",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom du premier album des Beatles?",
+        "answer": "Please Please Me",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a interprété 'Non, je ne regrette rien'?",
+        "answer": "Édith Piaf",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument traditionnel est associé à l'Australie?",
+        "answer": "Didgeridoo",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe français a chanté 'Jour 1'?",
+        "answer": "Louane",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse a sorti l'album '25'?",
+        "answer": "Adele",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui était le guitariste principal de Guns N' Roses?",
+        "answer": "Slash",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse a interprété 'Diamonds'?",
+        "answer": "Rihanna",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays vient le groupe Rammstein?",
+        "answer": "Allemagne",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel est le nom de scène de Stefani Germanotta?",
+        "answer": "Lady Gaga",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle est la durée standard d'un CD audio?",
+        "answer": "74 minutes",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel groupe a chanté 'November Rain'?",
+        "answer": "Guns N' Roses",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quelle chanteuse américaine est connue comme 'Queen B'?",
+        "answer": "Beyoncé",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Qui a chanté 'Unintended'?",
+        "answer": "Muse",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel instrument joue Kenny G?",
+        "answer": "Saxophone",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "De quel pays est originaire le groupe ABBA?",
+        "answer": "Suède",
+        "points": 10,
+        "time_limit": 40
+    },
+    {
+        "text": "Quel chanteur français a interprété 'Je te promets'?",
+        "answer": "Johnny Hallyday",
+        "points": 10,
+        "time_limit": 40
+    }
+] 
